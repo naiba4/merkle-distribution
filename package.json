@@ -19,7 +19,7 @@
     "chai": "4.3.7",
     "commander": "11.0.0",
     "dotenv": "16.3.1",
-    "eslint": "8.47.0",
+    "eslint": "9.26.0",
     "eslint-config-standard": "17.1.0",
     "eslint-plugin-import": "2.28.0",
     "eslint-plugin-n": "16.0.1",
@@ -36,7 +36,7 @@
     "qr-image": "3.2.0",
     "rimraf": "5.0.1",
     "solhint": "3.6.1",
-    "solidity-coverage": "0.8.4"
+    "solidity-coverage": "0.8.6"
   },
   "scripts": {
     "clean": "rimraf artifacts cache coverage coverage.json",
